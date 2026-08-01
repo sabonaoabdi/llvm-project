@@ -14,6 +14,7 @@
 ///
 //===----------------------------------------------------------------------===//
 
+#include "llvm/Transforms/Utils/DebugOperations.h"
 #include "llvm/Passes/PassBuilder.h"
 #include "llvm/ADT/StringSwitch.h"
 #include "llvm/ADT/StringTable.h"
